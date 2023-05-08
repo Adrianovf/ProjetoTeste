@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pet Central</string>
+    <string name="hint_login">Login</string>
+    <string name="hint_senha">Senha</string>
+    <string name="str_entrar">E N T R A R</string>
+    <string name="msg_erro_login">O login é obrigatório</string>
+    <string name="msg_erro_senha">A senha é obrigatória</string>
+</resources>
