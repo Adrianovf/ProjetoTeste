@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
                 isValido = false
                 binding.tilSenha.error = getString(R.string.msg_erro_senha)
             }else{
-                olha a magica acontecendo
+                olha a magica acontecendo aaaaaaaaaaaaaaaaaa
             }
         }
     }
